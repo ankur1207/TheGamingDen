@@ -1,2 +1,2 @@
 # TheGamingDen
-A Gaming Website
+A Gaming Website built using HTML and CSS.
